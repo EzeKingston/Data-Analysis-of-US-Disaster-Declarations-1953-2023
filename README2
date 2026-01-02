@@ -25,7 +25,7 @@ Place the dataset file in the same directory as the Jupyter notebooks (or update
 Open the project in Jupyter Notebook or JupyterLab.
 Run the notebooks from top to bottom to reproduce the data cleaning, analysis, and visualizations.
 Requirements:
-Python 3.x
+Python 3.14
 Jupyter Notebook
 pandas
 matplotlib
